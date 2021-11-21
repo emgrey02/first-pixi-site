@@ -1,0 +1,25 @@
+{
+  "name": "first-pixi-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emgrey02/first-pixi-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emgrey02/first-pixi-site/issues"
+  },
+  "homepage": "https://github.com/emgrey02/first-pixi-site#readme",
+  "devDependencies": {
+    "vite": "^2.6.4"
+  }
+}
